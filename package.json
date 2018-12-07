@@ -1,0 +1,19 @@
+{
+  "name": "jquery.appear",
+  "version": "1.0.0",
+  "description": "Jquery Appear",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaxlinksync/jquery.appear.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaxlinksync/jquery.appear/issues"
+  },
+  "homepage": "https://github.com/jaxlinksync/jquery.appear#readme"
+}
